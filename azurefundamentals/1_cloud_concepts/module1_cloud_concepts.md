@@ -1,10 +1,10 @@
 # General vision
 
-This document puts together a series of links to useful contents freely available all over the internet for those interested to know/study by thir own the fundamentals of cloud computing. By understanding the concepts tied to it is key to success in this World.
+This document puts together a series of links to useful content freely available over the internet for those interested in understanding the fundamentals of cloud computing. 
 
-By reading, watching and dig into this contents, in the end, you should be able to understand what cloud computing is, the differences between the types of clouds, vision about the main providers in the market, and more. This critical mass should serve you as a solid fundament to dig into Azure services.
+After working through this content one should understand the core concepts of cloud computing, the differences between the types of cloud computing models, and the main providers in the market. This information will provide the necessary foundation to begin using Microsoft Azure and it's various cloud services.
 
-If you think you already have the equivalent knowledge, please skip this step and go to [Azure Fundamentals](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/2_azure_fundamentals/module2_azure_fundamentals.md) self-service training.
+If you think you already have this foundational knowledge, please skip this step and go to [Azure Fundamentals](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/2_azure_fundamentals/module2_azure_fundamentals.md) self-service training.
 
 # Introductory video
 
